@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4202215f-e988-47e5-97b4-97d297943b69",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 800,
+  "height": 480,
+  "platformSettings": {},
+  "subMetas": {
+    "fundo-do-jogo-dos-desenhos-animados-57884203": {
+      "ver": "1.0.4",
+      "uuid": "8b23a1ae-23dd-44c1-af93-374bff4cf81f",
+      "rawTextureUuid": "4202215f-e988-47e5-97b4-97d297943b69",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 480,
+      "rawWidth": 800,
+      "rawHeight": 480,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
